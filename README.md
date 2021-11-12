@@ -33,12 +33,12 @@
 ### Módulo 2 - Desenvolvimento de Soluções Utilizando Spark
 | | Data | Tipo | Conteúdo |
 |:---:|:---:|:---|:---|
-| | | Videoaula | <ul><li>[ ] Introdução ao Apache Spark</li><li>[ ] Conceitos Fundamentais do Apache Spark</li><li>[ ] Estatística Descritiva usando Apache Spark</li></ul> |
+| | | Videoaula | <ul><li>[x] Introdução ao Apache Spark</li><li>[ ] Conceitos Fundamentais do Apache Spark</li><li>[ ] Estatística Descritiva usando Apache Spark</li></ul> |
  &check; | 09/11/2021 | Trabalho Prático | Trabalho Prático do Módulo 2 |
  &check; | 09/11/2021 | Aula Interativa | 1a. Aula Interativa do Módulo 2 |
  || | Videoaula | <ul><li>[ ] Spark SQL</li><li>[ ] Spark MLLib</li><li>[ ] Spark GraphX</li><li>[ ] Spark Streaming</li></ul> |
-  | 16/11/2021 | Desafio | Desafio do Módulo 1 |
-  | 16/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 1|
+ | | 16/11/2021 | Desafio | Desafio do Módulo 1 |
+ | | 16/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 1|
 || | Feedback | Feedback do Módulo 1 |
 <br>
 
