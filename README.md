@@ -1,10 +1,10 @@
 # Bootcamp - Cientista de Dados
-<br><br><br>
+<br>
 
 <p align="center">
   <img src="https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dados/blob/master/imagens/logo.png" alt="logo"/>
 </p>
-<br><br><br>
+<br>
 
 ## Linguagens e Ferramentas
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-<br><br><br>
+<br><br>
 
 ## Cronograma
 ### Módulo 1 - Fundamentos de Estatística e Aprendizado de Máquina
