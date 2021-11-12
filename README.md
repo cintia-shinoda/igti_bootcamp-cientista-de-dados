@@ -1,5 +1,5 @@
 # Bootcamp - Cientista de Dados
-![logo](https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dadoos/blob/master/imagens/logo.svg)
+![logo](https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dadoos/blob/master/imagens/logo.png)
 
 
 ## Linguagens e Ferramentas
