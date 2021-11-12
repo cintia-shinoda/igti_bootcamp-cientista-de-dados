@@ -1,4 +1,5 @@
 # Bootcamp - Cientista de Dados
+![logo](https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dadoos/blob/master/imagens/logo.svg)
 
 
 ## Linguagens e Ferramentas
@@ -23,7 +24,7 @@
 | &check; | 26/10/2021 | Aula Interativa | 1a. Aula Interativa do Módulo 1 |
 | &check; | 04/11/2021 | Desafio | Desafio do Módulo 1 |
 | &check; | 04/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 1|
-| [ ] | 08/11/2021 | Feedback | Feedback do Módulo 1 |
+| &cross; | 08/11/2021 | Feedback | Feedback do Módulo 1 |
 
 
 ### Módulo 2 - Desenvolvimento de Soluções Utilizando Spark
