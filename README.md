@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dados/blob/master/imagens/logo.png" alt="logo"/>
 </p>
+<br><br><br>
 
 ## Linguagens e Ferramentas
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -16,7 +17,6 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <br><br><br>
 
-
 ## Cronograma
 ### Módulo 1 - Fundamentos de Estatística e Aprendizado de Máquina
 | | Data | Tipo | Conteúdo |
@@ -27,7 +27,7 @@
 | &check; | 04/11/2021 | Desafio | Desafio do Módulo 1 |
 | &check; | 04/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 1|
 | &cross; | 08/11/2021 | Feedback | Feedback do Módulo 1 |
-
+<br><br>
 
 ### Módulo 2 - Desenvolvimento de Soluções Utilizando Spark
 | | Data | Tipo | Conteúdo |
@@ -39,12 +39,12 @@
 |  | 16/11/2021 | Desafio | Desafio do Módulo 1 |
 |  | 16/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 1|
 || | Feedback | Feedback do Módulo 1 |
-
+<br><br>
 
 ### Módulo 3
-
+<br><br>
 
 ### Módulo 4
-
+<br><br>
 
 ### Módulo Final
