@@ -1,6 +1,8 @@
 # Bootcamp - Cientista de Dados
-![logo](https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dados/blob/master/imagens/logo.png)
 
+<p align="center">
+  <img src="https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dados/blob/master/imagens/logo.png" alt="logo"/>
+</p>
 
 ## Linguagens e Ferramentas
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
