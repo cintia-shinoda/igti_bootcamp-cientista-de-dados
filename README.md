@@ -66,7 +66,7 @@ TOTAL DO MÓDULO 2 | | | | 96,25% (77 / 80)
 | &check; | | Fórum | Fórum de Debates | 10 / 10|
 | &check; | 30/11/2021 | Desafio | Desafio do Módulo 3 | 40 / 40 |
 | &check; | 30/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 3 | 10 / 10 |
-| | 06/12/2021 | Feedback | Feedback do Módulo 3  |
+| &check; | 06/12/2021 | Feedback | Feedback do Módulo 3  |
 TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 <br>
 
@@ -91,6 +91,6 @@ TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 | TOTAL DO MÓDULO FINAL | | | | |
 
 
-| TOTAL | | | | |
-|:---:|---|---|---|---|
-|||||  |
+| TOTAL |
+|:---:|
+|  |
