@@ -73,7 +73,7 @@ TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 ### Módulo 4 - Análise de Dados Utilizando Dashboards
 | | Data | Tipo | Conteúdo |
 |:---:|:---:|:---|:---|
-| | | Videoaulas | <ul><li>[ ] Apresentação</li><li>[ ] Introdução  aos Dashboards</li><li>[ ] Princípios Visuais da Gestalt</li><li>[ ] Categorias de Dashboards</li><li>[ ] Estudos de Gráficos para Dashboards</li><li>[ ] Data Storytelling com Dados</li></ul> |
+| | | Videoaulas | <ul><li>[x] Apresentação</li><li>[ ] Introdução  aos Dashboards</li><li>[ ] Princípios Visuais da Gestalt</li><li>[ ] Categorias de Dashboards</li><li>[ ] Estudos de Gráficos para Dashboards</li><li>[ ] Data Storytelling com Dados</li></ul> |
 | | 06/12/2021 | Trabalho Prático | Trabalho Prático do Módulo 4 |
 | | 06/12/2021 | Aula Interativa| 1a. Aula Interativa |
 | | | Videoaulas | <ul><li>[ ] Construção de um Dashboard</li><li>[ ] Desenvolvendo Dashboards Empresariais: Introdução</li><li>[ ] Tableau - Parte I</li><li>[ ] Tableau - Parte II</li><li>[ ] Power BI - Parte I</li><li>[ ] Power BI - Parte II</li></ul> |
@@ -94,3 +94,8 @@ TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 | TOTAL |
 |:---:|
 |  |
+
+
+## Certificado
+<p align="center">
+  <img src="https://github.com/cintia-shinoda/igti_bootcamp-cientista-de-dados/blob/master/imagens/certificado-cientista-de-dados.jpeg" alt="certificado-cientista-de-dados"/>
