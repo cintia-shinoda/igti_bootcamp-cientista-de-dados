@@ -47,8 +47,8 @@
 |:---:|:---:|:---|:---|:---:|
 | | | Videoaula | <ul><li>[x] Introdução ao Apache Spark</li><li>[ ] Conceitos Fundamentais do Apache Spark</li><li>[ ] Estatística Descritiva usando Apache Spark</li></ul> |
  &check; | 09/11/2021 | Trabalho Prático | Trabalho Prático do Módulo 2 | 25 / 25 |
- &check; | 09/11/2021 | Aula Interativa | 1a. Aula Interativa do Módulo 2 |
- || | Videoaula | <ul><li>[ ] Spark SQL</li><li>[ ] Spark MLLib</li><li>[ ] Spark GraphX</li><li>[ ] Spark Streaming</li><li>[ ] Spark em Produção</li></ul> |
+ &check; | 09/11/2021 | Aula Interativa | 1a. Aula Interativa do Módulo 2 | 10 / 10 |
+ | | | Videoaula | <ul><li>[ ] Spark SQL</li><li>[ ] Spark MLLib</li><li>[ ] Spark GraphX</li><li>[ ] Spark Streaming</li><li>[ ] Spark em Produção</li></ul> |
  | &check; | | Fórum  | Fórum de Debates do Módulo 2 | 7 / 10 |
  | &check; | 16/11/2021 | Desafio | Desafio do Módulo 2 | 40 / 40 |
  | &check;| 16/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 2| 10 / 10 |
@@ -66,34 +66,33 @@ TOTAL DO MÓDULO 2 | | | | 96,25% (77 / 80)
 | &check; | | Fórum | Fórum de Debates | 10 / 10|
 | &check; | 30/11/2021 | Desafio | Desafio do Módulo 3 | 40 / 40 |
 | &check; | 30/11/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 3 | 10 / 10 |
-| &check; | 06/12/2021 | Feedback | Feedback do Módulo 3  |
+| &check; | 06/12/2021 | Feedback | Feedback do Módulo 3  | 5 / 5 |
 TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 <br>
 
 ### Módulo 4 - Análise de Dados Utilizando Dashboards
-| | Data | Tipo | Conteúdo |
-|:---:|:---:|:---|:---|
+| | Data | Tipo | Conteúdo | |
+|:---:|:---:|:---|:---|:---:|
 | | | Videoaulas | <ul><li>[x] Apresentação</li><li>[ ] Introdução  aos Dashboards</li><li>[ ] Princípios Visuais da Gestalt</li><li>[ ] Categorias de Dashboards</li><li>[ ] Estudos de Gráficos para Dashboards</li><li>[ ] Data Storytelling com Dados</li></ul> |
-| | 06/12/2021 | Trabalho Prático | Trabalho Prático do Módulo 4 |
-| | 06/12/2021 | Aula Interativa| 1a. Aula Interativa |
+| | 06/12/2021 | Trabalho Prático | Trabalho Prático do Módulo 4 | 25 / 25 |
+| | 06/12/2021 | Aula Interativa| 1a. Aula Interativa | 10 / 10 |
 | | | Videoaulas | <ul><li>[ ] Construção de um Dashboard</li><li>[ ] Desenvolvendo Dashboards Empresariais: Introdução</li><li>[ ] Tableau - Parte I</li><li>[ ] Tableau - Parte II</li><li>[ ] Power BI - Parte I</li><li>[ ] Power BI - Parte II</li></ul> |
-| | 13/12/2021 | Fórum | Fórum de Debates do Módulo 4 | |
-| | 13/12/2021 | Desafio | Desafio do Módulo 4 |
-| | 13/12/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 4 |
-| | 20/12/2021 | Feedback | Feedback do Módulo 4 |
+| | 13/12/2021 | Fórum | Fórum de Debates do Módulo 4 | 10 / 10 |
+| | 13/12/2021 | Desafio | Desafio do Módulo 4 | 40 / 40 |
+| | 13/12/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 4 | 10 / 10 |
+| | 20/12/2021 | Feedback | Feedback do Módulo 4 | 5 / 5 |
 <br>
 
 ### Módulo Final
 | | Data | Tipo | Conteúdo | Nota |
 |:---:|:---:|:---|:---|:---:|
-| | | Desafio | Desafio Final | |
-| | | Feedback | Feedback | | 
-| TOTAL DO MÓDULO FINAL | | | | |
+| | 20/12/2021 | Aula Interativa | Aula Interativa do Módulo de Desafio | |
+| | 24/12/2021 | Desafio | Desafio Final | 100 / 100|
 
 
 | TOTAL |
 |:---:|
-|  |
+| 98,4% (492 / 500) |
 
 
 ## Certificado
