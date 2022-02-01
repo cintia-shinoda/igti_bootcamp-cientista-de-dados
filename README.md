@@ -81,6 +81,7 @@ TOTAL DO MÓDULO 3 | | | | 100% (80 / 80)
 | | 13/12/2021 | Desafio | Desafio do Módulo 4 | 40 / 40 |
 | | 13/12/2021 | Aula Interativa | 2a. Aula Interativa do Módulo 4 | 10 / 10 |
 | | 20/12/2021 | Feedback | Feedback do Módulo 4 | 5 / 5 |
+TOTAL DO MÓDULO 4 | | | | 100% (80 / 80)
 <br>
 
 ### Módulo Final
